@@ -2,6 +2,8 @@
 
 A sourced, documented record of the islamic republic's rule: its brutality, corruption, and propaganda, alongside the voices and safety of the Iranian people who live under it.
 
+You can find the IranScope website [here](https://tahdigthief.github.io/IranScope/).
+
 Posts are organized by topic under `posts/`:
 
 - `regime_brutality/` - torture, executions, and massacres.
